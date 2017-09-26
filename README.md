@@ -4,7 +4,19 @@ Automation of the chicken coop door for Arduion Nano .
 
 # Details for now
 Variable closing time using input from light and motion sensors and sunset data.
-Powered by 230V AC 
+Powered by 12VDC 14Ah battery 
 
-# Bill of material
-1x Arduino Nano ATmega328
+# Bill of materials
+## Electrical components
+* 1x Arduino Nano ATmega328
+* 1x 37mm 12VDC High Torque Gear Box Reduction Motor
+* 1x 37mm DC Gear Motor L Shaped Bracket
+* 1x Pyroelectric IR Infrared PIR Motion Sensor
+* 1x L298N Dual H-Bridge DC Motor Controller
+
+## Mechanical components
+* 1x 2m GT2 6mm Timing Belt
+* 2x GT2 Timing Smooth Idler Pulley 20 Teeth with Aluminum Bearing for 6mm belt
+* 1x GT2 Timing Drive Pulley 40 Teeth Alumium Bore 6.35MM for 6mm belt
+
+
